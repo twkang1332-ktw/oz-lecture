@@ -80,7 +80,7 @@ console.log(typeof data[4]);        // undefined
 
 data.email = null;   // 객체에 속성 추가
 console.log(data.email === null);        //true
-console.log(data.email)      //null
+console.log(data.email);        //null
 
 // null은 typeof로 확인하면 object가 나오지만, 값을 출력하면 null이 나온다.
 
