@@ -19,7 +19,7 @@ function reverseStars(count) {
     }
 
     console.log(stars);
-  }e
+  }
 }
 
 // 3. 사각형 별 출력
